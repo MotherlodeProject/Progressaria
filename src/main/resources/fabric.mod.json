@@ -1,0 +1,11 @@
+{
+  "id": "progressaria",
+  "name": "Progressaria",
+  "version": "$version",
+  "side": "universal",
+  "initializers": [
+  ],
+  "description": "Revamps Minecraft's progression to take longer and do cool stuff",
+  "mixins": {
+  }
+}
